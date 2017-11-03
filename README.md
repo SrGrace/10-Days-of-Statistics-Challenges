@@ -31,7 +31,8 @@ Given an array, X, of N integers, calculate and print the respective ***mean, me
 ####[Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem)
 <br>
 **Task** <br>
-Given an array, X, of N integers and an array, W, representing the respective weights of X's elements, calculate and print the weighted mean of X's elements. Your answer should be rounded to a scale of decimal place.
+Given an array, X, of N integers and an array, W, representing the respective weights of X's elements, calculate and print the ***weighted mean*** of X's elements. Your answer should be rounded to a scale of decimal place.
+<br>
 <br>
 [Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-0/Day-0_WeightedMean.cpp)
 
