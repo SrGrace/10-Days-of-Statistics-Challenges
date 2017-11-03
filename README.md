@@ -1,5 +1,3 @@
-# 10-Days-of-Statistics-Challenges
-A Repository of 10 Days of Statistics Challenges at HackerRank.
 
 # SrGrace's 10-Days-of-Statistics-Challenges wiki
 
