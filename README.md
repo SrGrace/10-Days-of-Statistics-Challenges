@@ -23,7 +23,7 @@ A Repository of 10 Days of Statistics Challenges at HackerRank.
 <br>
 **Task** <br>
 Given an array, X, of N integers, calculate and print the respective ***mean, median, and mode*** on separate lines. If your array contains more than one modal value, choose the numerically smallest one.
-<br><br>
+<br>
 [Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-0/Day-0_MeanMedianAndMode.cpp)
 <br>
 <br>
@@ -32,7 +32,7 @@ Given an array, X, of N integers, calculate and print the respective ***mean, me
 <br>
 **Task** <br>
 Given an array, X, of N integers and an array, W, representing the respective weights of X's elements, calculate and print the weighted mean of X's elements. Your answer should be rounded to a scale of decimal place.
-<br><br>
+<br>
 [Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-0/Day-0_WeightedMean.cpp)
 
 
@@ -63,6 +63,6 @@ Given an array, X, of N integers and an array, W, representing the respective we
 ### Day 9
 ---
 
-<br><br><br><br>
+<br><br>
 **NOTE:** PRs and Stars are always welcome :)
 
