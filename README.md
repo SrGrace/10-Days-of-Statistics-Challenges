@@ -1,5 +1,6 @@
 
-# SrGrace's 10-Days-of-Statistics-Challenges wiki
+# SrGrace's 10 Days of Statistics Challenges-wiki
+Collection of solution for [10 Days of Statistics Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics) at [HackerRank](https://www.hackerrank.com/).
 
 ### Contents
 
