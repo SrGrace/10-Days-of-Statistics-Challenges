@@ -41,7 +41,7 @@ Given an array, X, of N integers and an array, W, representing the respective we
 
 ####[Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem)
 <br>
-**Task:** <br>
+**Task:**<br>
 Given an array, X, of N integers, calculate the respective ***first quartile (Q1), second quartile (Q2), and third quartile (Q3)***. It is guaranteed that Q1, Q2, and Q3 are integers.
 <br><br>
 [Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-1/Day-1_Quartiles.cpp)
