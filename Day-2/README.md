@@ -16,7 +16,7 @@ Ans: 4/36 = 1/9
 ### Day 2: Compound Event Probability
 
 Task:
-There are 3 urns labeled X, Y, and Z.
+There are 3 urns labeled X, Y, and Z. <br>
 
 Urn contains red balls and black balls.
 Urn contains red balls and black balls.
