@@ -18,7 +18,7 @@ Ans: 4/36 = 1/9
 Task:
 There are 3 urns labeled X, Y, and Z.
 
-Urn contains red balls and black balls. 
+Urn contains red balls and black balls. <br>
 Urn contains red balls and black balls.
 Urn contains red balls and black balls.
 
