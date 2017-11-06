@@ -1,5 +1,6 @@
 
 ### Day 3: Conditional Probability
+
 Task:
 Suppose a family has 2 children, one of which is a boy. What is the probability that both children are boys?
 
@@ -12,6 +13,7 @@ we can find the probability as a fraction of the reduced sample space:
 
 
 ### Day 3: Cards of the Same Suit
+
 Task:
 You draw 2 cards from a standard 52-card deck without replacing them. What is the probability that both cards are of the same suit?
 
@@ -23,6 +25,7 @@ only 12 of which match the drawn card's suit. The probability of the second card
 
 
 ### Day 3: Drawing Marbles
+
 Task:
 A bag contains 3 red marbles and 4 blue marbles. Then, 2 marbles are drawn from the bag, at random, without replacement. If the first marble drawn is red, what is the probability that the second marble is blue?
 
