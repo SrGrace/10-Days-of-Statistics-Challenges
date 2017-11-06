@@ -128,8 +128,8 @@ Suppose a family has 2 children, one of which is a boy. What is the probability 
 <br><br>
 **Ans:** <br>
 
-    Approach is to reduce the sample space so that it only contains events where one child is a boy Sb = {BB, GB, BG}
-    If we consider event E to be the event in which both children are boys (so E = {BB}), 
+    Approach is to reduce the sample space so that it only contains events where one child is a boy 
+    S(boy) = {BB, GB, BG}. If we consider event E to be the event in which both children are boys (so E = {BB}), 
     we can find the probability as a fraction of the reduced sample space:
                         P(E) = |E|/|S| = 1/3.
                         
