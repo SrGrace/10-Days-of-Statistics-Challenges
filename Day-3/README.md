@@ -33,3 +33,7 @@ Ans:
 
 since already 1 ball is choosen, there are 6 balls left. We need to pick up the blue ball, 
 where there are 4 blue coloured balls. The probabilty is P(E) = 4/6 = 2/3.
+
+
+
+
