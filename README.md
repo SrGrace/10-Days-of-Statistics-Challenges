@@ -121,6 +121,45 @@ One ball is drawn from each of the 3 urns. What is the probability that, of the 
 ### Day 3
 ---
 
+####[Day 3: Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4/problem)
+<br>
+**Task:** <br>
+Suppose a family has 2 children, one of which is a boy. What is the probability that both children are boys?
+<br><br>
+**Ans:** <br>
+
+    Approach is to reduce the sample space so that it only contains events where one child is a boy Sb = {BB, GB, BG}
+    If we consider event E to be the event in which both children are boys (so E = {BB}), 
+    we can find the probability as a fraction of the reduced sample space:
+                        P(E) = |E|/|S| = 1/3.
+                        
+<br>
+
+####[Day 3: Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5/problem)
+<br>
+**Task:** <br>
+You draw 2 cards from a standard 52-card deck without replacing them. What is the probability that both cards are of the same suit?
+<br><br>
+**Ans:** <br>
+
+    The first card drawn will be from any of the 4 suits and there will be 51 cards left in the deck, 
+    only 12 of which match the drawn card's suit. The probability of the second card being of the same suit is:
+                        P(E) = 12/51 = 4/17.
+                        
+<br>
+
+####[Day 3: Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6/problem)
+<br>
+**Task:** <br>
+A bag contains 3 red marbles and 4 blue marbles. Then, 2 marbles are drawn from the bag, at random, without replacement. If the first marble drawn is red, what is the probability that the second marble is blue?
+<br><br>
+**Ans:** <br>
+
+    since already 1 ball is choosen, there are 6 balls left. We need to pick up the blue ball, 
+    where there are 4 blue coloured balls. The probabilty is P(E) = 4/6 = 2/3.
+                        
+<br>
+
 ### Day 4
 ---
 
