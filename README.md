@@ -179,8 +179,7 @@ A manufacturer of metal pistons finds that, on average, 12% of the pistons they 
       
       1) No more than 2 rejects?
       2) At least 2 rejects?
-
-<br><br>
+      
 [Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-4/Day-4_BinomialDistribution-II.cpp)
 <br>
 <br>
