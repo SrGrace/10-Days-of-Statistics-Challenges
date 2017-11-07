@@ -163,6 +163,46 @@ A bag contains 3 red marbles and 4 blue marbles. Then, 2 marbles are drawn from 
 ### Day 4
 ---
 
+####[Day 4: Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem)
+<br>
+**Task:** <br>
+The ratio of boys to girls for babies born in Russia is 1.09 : 1. If there is 1 child born per birth, what proportion of Russian families with exactly 6 children will have at least 3 boys?
+<br><br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-4/Day-4_BinomialDistribution-I.cpp)
+<br>
+<br>
+
+####[Day 4: Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem)
+<br>
+**Task:** <br>
+A manufacturer of metal pistons finds that, on average, 12% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 10 pistons will contain:
+      
+      1) No more than 2 rejects?
+      2) At least 2 rejects?
+
+<br><br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-4/Day-4_BinomialDistribution-II.cpp)
+<br>
+<br>
+
+####[Day 4: Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem)
+<br>
+**Task:** <br>
+The probability that a machine produces a defective product is 1/3. What is the probability that the 1st defect is found during the 5th inspection?
+<br><br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-4/Day-4_GeometricDistribution-I.cpp)
+<br>
+<br>
+
+####[Day 4: Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem)
+<br>
+**Task:** <br>
+The probability that a machine produces a defective product is 1/3. What is the probability that the defect is found during the first 5 inspections?
+<br><br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-4/Day-4_GeometricDistribution-II.cpp)
+<br>
+<br>
+
 ### Day 5
 ---
 
