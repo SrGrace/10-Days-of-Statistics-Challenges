@@ -238,7 +238,7 @@ In a certain plant, the time taken to assemble a car is a random variable, X, ha
     Less than 19.5 hours?
     Between 20 and 22 hours?
 
-<br>
+<br><br>
 [Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-5/Day-5_NormalDistribution-I.cpp)
 <br>
 <br>
@@ -253,7 +253,7 @@ The final grades for a Physics exam taken by a large group of students have a me
     Failed the test (i.e., have a grade < 60)?
     
 Find and print the answer to each question on a new line, rounded to a scale of decimal places.
-<br>
+<br><br>
 [Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-5/Day-5_NormalDistribution-II.cpp)
 <br>
 <br>
