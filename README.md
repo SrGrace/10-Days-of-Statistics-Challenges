@@ -205,6 +205,59 @@ The probability that a machine produces a defective product is 1/3. What is the 
 ### Day 5
 ---
 
+####[Day 5: Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem)
+<br>
+**Task:** <br>
+A random variable, X, follows Poisson distribution with mean of 2.5. Find the probability with which the random variable X is equal to 5.
+<br><br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-5/Day-5_PoissonDistribution-I.cpp)
+<br>
+<br>
+
+####[Day 5: Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem)
+<br>
+**Task:** <br>
+The manager of a industrial plant is planning to buy a machine of either type A or type B. For each day’s operation:
+
+    The number of repairs, X, that machine A needs is a Poisson random variable with mean 0.88. The daily cost of operating
+    A is Ca = 160 + 40X^2.
+    The number of repairs, Y, that machine B needs is a Poisson random variable with mean 1.55. The daily cost of operating
+    B is Cb = 128 + 40Y^2.
+
+Assume that the repairs take a negligible amount of time and the machines are maintained nightly to ensure that they operate like new at the start of each day. Find and print the expected daily cost for each machine.
+<br><br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-5/Day-5_PoissonDistribution-II.cpp)
+<br>
+<br>
+
+####[Day 5: Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem)
+<br>
+**Task:** <br>
+In a certain plant, the time taken to assemble a car is a random variable, X, having a normal distribution with a mean of 20 hours and a standard deviation of 2 hours. What is the probability that a car can be assembled at this plant in:
+
+    Less than 19.5 hours?
+    Between 20 and 22 hours?
+
+<br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-5/Day-5_NormalDistribution-I.cpp)
+<br>
+<br>
+
+####[Day 5: Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem)
+<br>
+**Task:** <br>
+The final grades for a Physics exam taken by a large group of students have a mean of 70 and a standard deviation of 10. If we can approximate the distribution of these grades by a normal distribution, what percentage of the students:
+
+    Scored higher than 80 (i.e., have a grade > 80)?
+    Passed the test (i.e., have a grade >= 60)?
+    Failed the test (i.e., have a grade < 60)?
+    
+Find and print the answer to each question on a new line, rounded to a scale of decimal places.
+<br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-5/Day-5_NormalDistribution-II.cpp)
+<br>
+<br>
+
 ### Day 6
 ---
 
