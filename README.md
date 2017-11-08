@@ -238,7 +238,6 @@ In a certain plant, the time taken to assemble a car is a random variable, X, ha
     Less than 19.5 hours?
     Between 20 and 22 hours?
     
-<br>
 [Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-5/Day-5_NormalDistribution-I.cpp)
 <br>
 <br>
