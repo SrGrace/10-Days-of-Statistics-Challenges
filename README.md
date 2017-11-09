@@ -260,6 +260,35 @@ Find and print the answer to each question on a new line, rounded to a scale of 
 ### Day 6
 ---
 
+####[Day 6: The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem)
+<br>
+**Task:** <br>
+A large elevator can transport a maximum of 9800 pounds. Suppose a load of cargo containing 49 boxes must be transported via the elevator. The box weight of this type of cargo follows a distribution with a mean of 205 pounds and a standard deviation of 15 pounds. Based on this information, what is the probability that all 49 boxes can be safely loaded into the freight elevator and transported?
+<br><br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-6/Day-6_TheCentralLimitTheorem-I.cpp)
+<br>
+<br>
+
+####[Day 6: The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem)
+<br>
+**Task:** <br>
+The number of tickets purchased by each student for the University X vs. University Y football game follows a distribution that has a mean of 2.4 and a standard deviation of 2.0.
+
+A few hours before the game starts, 100 eager students line up to purchase last-minute tickets. If there are only 250 tickets left, what is the probability that all 100 students will be able to purchase tickets?
+<br><br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-6/Day-6_TheCentralLimitTheorem-II.cpp)
+<br>
+<br>
+
+####[Day 6: The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem)
+<br>
+**Task:** <br>
+You have a sample of 100 values from a population with mean 500 and with standard deviation 80. Compute the interval that covers the middle 95% of the distribution of the sample mean; in other words, compute A and B such that P(A < x < B) = 0.95. Use the value of z = 1.96. Note that z is the z-score.
+<br><br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-6/Day-6_TheCentralLimitTheorem-III.cpp)
+<br>
+<br>
+
 ### Day 7
 ---
 
