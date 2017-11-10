@@ -292,6 +292,24 @@ You have a sample of 100 values from a population with mean 500 and with standar
 ### Day 7
 ---
 
+####[Day 7: Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem)
+<br>
+**Task:** <br>
+Given two n-element data sets, X and Y, calculate the value of the Pearson correlation coefficient.
+<br><br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-7/Day-7_PearsonCorrelationCoefficient-I.cpp)
+<br>
+<br>
+
+####[Day 7: Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem)
+<br>
+**Task:** <br>
+Given two n-element data sets, X and Y, calculate the value of Spearman's rank correlation coefficient.
+<br><br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-7/Day-7_Spearman'sRankCorrelationCoefficient.cpp)
+<br>
+<br>
+
 ### Day 8
 ---
 
