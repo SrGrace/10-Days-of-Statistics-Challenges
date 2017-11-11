@@ -29,3 +29,6 @@ p = 3/4 or -3/4 (depending on correlation of x and y)
 
 Notice that both of the original line equations have negative slopes, so x and y are negatively correlated by definition.
 So, p = -3/4
+
+
+
