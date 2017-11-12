@@ -313,7 +313,7 @@ Given two n-element data sets, X and Y, calculate the value of Spearman's rank c
 ### Day 8
 ---
 
-####[Day 8: Least Square Regression Line](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem)
+####[Day 8: Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem)
 <br>
 **Task:** <br>
 A group of five students enrolls in Statistics immediately after taking a Math aptitude test. Each student's Math aptitude test score, x, and Statistics course grade, y, can be expressed as the following list of (x, y) points: <br>
@@ -324,7 +324,7 @@ If a student scored an 80 on the Math aptitude test, what grade would we expect 
 <br>
 
 
-####[Day 8: Least Square Regression Line](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem)
+####[Day 8: Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7/problem)
 <br>
 **Task:** <br>
 The regression line of y on x is 3x + 4y + 8 = 0, and the regression line of x on y is 4x + 3y + 7 = 0. What is the value of the Pearson correlation coefficient?
