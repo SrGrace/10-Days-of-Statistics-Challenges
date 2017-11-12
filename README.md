@@ -336,6 +336,18 @@ The regression line of y on x is 3x + 4y + 8 = 0, and the regression line of x o
 ### Day 9
 ---
 
+####[Day 9: Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem)
+<br>
+**Task:** <br>
+Andrea has a simple equation: Y = a + b1*f1 + b2*f2 + .... +bm*fm.
+for (m+1) real constants (a1, f1, f2,..., fm). We can say that the value of Y depends on m features. Andrea studies this equation for n different feature sets (f1, f2,..., fm) and records each respective value of Y. If she has q new feature sets, can you help Andrea find the value of Y for each of the sets?
+
+**Note:** You are not expected to account for bias and variance trade-offs.
+<br><br>
+[Solution](https://github.com/SrGrace/10-Days-of-Statistics-Challenges/blob/master/Day-9/Day-9_MultipleLinearRegression.py)
+<br>
+<br>
+
 <br><br>
 **NOTE:** PRs and Stars are always welcome :)
 
