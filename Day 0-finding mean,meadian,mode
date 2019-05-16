@@ -1,0 +1,65 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+float mean(int a[],int n)
+{
+    float sum=0;
+    for(int i=0;i<n;i++)
+    {
+        sum+=a[i];
+    }
+
+    return (sum/(float)n);
+}
+
+float median(int a[],int n)
+{
+    if(n%2==0)
+    {
+        return(((float)a[n/2]+(float)a[(n/2)-1])/2.0);
+    }
+
+    else 
+        return(float(a[(n/2)+1]));
+}
+
+int mode(int a[],int n)
+{
+    int max=0,num;
+    for(int i=0;i<n;i++)
+    { int count=0;
+       for(int j=0;j<n;j++)
+       {
+         if(a[i]==a[j])
+          count++;
+       }
+           if(max<count)
+            {
+                max=count;
+                num=a[i];
+            }
+        }
+    return num;
+}
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
+    int n;
+    scanf("%d",&n);
+    int a[n];
+    for(int i=0;i<n;i++)
+     scanf("%d",&a[i]);
+
+    sort(a,a+n);
+    float mn=mean(a,n);
+    float med=median(a,n);
+    int mo=mode(a,n); 
+   
+
+    printf("%.1f\n%.1f\n%d\n",mn,med,mo);
+    return 0;
+}
